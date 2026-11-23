@@ -2,6 +2,11 @@
 
 A developing method for assessing and preparing specific AI use cases by bringing together governance, organizational readiness, and use-case requirements.
 
+
+**Repository map:** [How repository roles, interfaces, information flow, and feedback work](REPOSITORY-MAP.md).
+
+![AI Enablement Documentation Model](repository-map.svg)
+
 ## Core distinction
 
 - **AI governance** provides frameworks, obligations, responsibilities, and risk-management practices.
