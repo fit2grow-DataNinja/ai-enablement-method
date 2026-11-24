@@ -59,7 +59,7 @@
   <rect x="480" y="640" width="640" height="140" rx="26" class="applied"/>
   <text x="800" y="697" text-anchor="middle" class="node-title">Applied Solutions Repositories</text>
   <text x="800" y="732" text-anchor="middle" class="node-sub">Use-case-specific implementation, assessments, controls, and evidence</text>
-  <text x="800" y="756" text-anchor="middle" class="node-sub">Examples: S02 CRM Auditor · RAG MVP · A/B Testing solution</text>
+  <text x="800" y="756" text-anchor="middle" class="node-sub">S02 (MVP) · RAG (in progress) · A/B (recreating)</text>
 
   <!-- Portfolio -->
   <path d="M800 780 V900" class="link"/>
