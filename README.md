@@ -2,6 +2,9 @@
 
 A developing method for assessing and preparing specific AI use cases by bringing together governance, organizational readiness, and use-case requirements.
 
+## Copyright and reuse
+
+Unless otherwise stated, original material in this repository—including documentation, templates, diagrams, and original methods—is © 2026 Balázs Bogda. All rights reserved. No additional permission is granted to reproduce, adapt, redistribute, or otherwise reuse this material beyond the rights GitHub’s Terms of Service grant for viewing and forking public repositories on GitHub. Third-party sources and materials retain their own rights and terms; consult the cited source and source records.
 
 **Repository map:** [How repository roles, interfaces, information flow, and feedback work](REPOSITORY-MAP.md).
 
